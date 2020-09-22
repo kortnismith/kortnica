@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on kortni.ca</title>
+    <link>https://kortni.ca/blog/</link>
+    <description>Recent content in Blogs on kortni.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kortni.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security Blankets</title>
+      <link>https://kortni.ca/blog/security-blankets/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/security-blankets/</guid>
+      <description>I was feeling victimmy about my messiness the other day as I noticed our clean house revert back to an untidy state.
+I watched as our clean island in the kitchen seemed to slowly attract item after item to it&amp;rsquo;s surface until there was a familiar size mound of everyone&amp;rsquo;s crap. I wondered why this kept happening. Why was it so hard for me to keep things clean?
+My husband puts his stuff away.</description>
+    </item>
+    
+    <item>
+      <title>Staying Home for School</title>
+      <link>https://kortni.ca/blog/staying-home-for-school/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/staying-home-for-school/</guid>
+      <description>Back to school this month looks a lot different for us.
+We&amp;rsquo;re staying home for grade 3 and 5 and doing distanced learning through SIDES. I took some courses through SIDES when I was in high school and really enjoye it. I&amp;rsquo;m guessing my sons won&amp;rsquo;t have to paper snail mail their math work into their teachers for grading and wait weeks, instead of seconds, for the results of their tests.</description>
+    </item>
+    
+    <item>
+      <title>A Year With No Beer</title>
+      <link>https://kortni.ca/blog/year-no-beer/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/year-no-beer/</guid>
+      <description>The last sip of beer I had was Oct 7th, 2019.
+It has been one year since that date and now&amp;hellip;
+My liver is thanking me.
+I&amp;rsquo;ve regretted our investment in our friend&amp;rsquo;s local Brewery on more than one occasion. Especially when they released a couple new beer that almost broke me. The berry sours. Ohhh gawd the berry sours.
+I needed to spend some sober time away from the bottle.</description>
+    </item>
+    
+    <item>
+      <title>What I Learned From Shaving My Head</title>
+      <link>https://kortni.ca/blog/shaved-head/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/shaved-head/</guid>
+      <description>With blonde curly hair halfway down my back, one day I put it in a few pigtails, and cut them all off. My girlfriend was about to lose her hair so I figured I&amp;rsquo;d join her.
+When I was growing up, I&amp;rsquo;d always said that I would shave my head if one of my friends got cancer. Based on the rate of cancer I&amp;rsquo;d seen, I felt like someone close to me was bound to get it.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://kortni.ca/blog/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://kortni.ca/blog/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://kortni.ca/blog/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://kortni.ca/blog/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://kortni.ca/blog/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://kortni.ca/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Saying Goodbye</title>
+      <link>https://kortni.ca/blog/saying-goodbye/</link>
+      <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/saying-goodbye/</guid>
+      <description>I love being on vacation when there&amp;rsquo;s no cell phone reception.
+I do NOT like when cell reception becomes available and all the missed contact attempts flood onto my phone. It feels like everybody wants a piece of me, and I&amp;rsquo;m not even officially back yet! I suppose I don&amp;rsquo;t haave to turn my phone on until I return home. Hmmm perhaps.
+Even when you know it&amp;rsquo;s coming, you&amp;rsquo;re never ready to hear the words that your friend has passed away.</description>
+    </item>
+    
+    <item>
+      <title>Dear First Diary</title>
+      <link>https://kortni.ca/blog/dear-first-diary/</link>
+      <pubDate>Fri, 25 Dec 1992 21:49:20 +0200</pubDate>
+      
+      <guid>https://kortni.ca/blog/dear-first-diary/</guid>
+      <description>Dear Diary,
+Today is the day that I first got you!</description>
+    </item>
+    
+  </channel>
+</rss>

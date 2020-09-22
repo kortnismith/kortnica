@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ego on kortni.ca</title>
+    <link>https://kortni.ca/tags/ego/</link>
+    <description>Recent content in Ego on kortni.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kortni.ca/tags/ego/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What I Learned From Shaving My Head</title>
+      <link>https://kortni.ca/blog/shaved-head/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/shaved-head/</guid>
+      <description>With blonde curly hair halfway down my back, one day I put it in a few pigtails, and cut them all off. My girlfriend was about to lose her hair so I figured I&amp;rsquo;d join her.
+When I was growing up, I&amp;rsquo;d always said that I would shave my head if one of my friends got cancer. Based on the rate of cancer I&amp;rsquo;d seen, I felt like someone close to me was bound to get it.</description>
+    </item>
+    
+  </channel>
+</rss>

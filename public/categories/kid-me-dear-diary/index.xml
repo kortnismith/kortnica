@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kid Me Dear Diary on kortni.ca</title>
+    <link>https://kortni.ca/categories/kid-me-dear-diary/</link>
+    <description>Recent content in Kid Me Dear Diary on kortni.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Dec 1992 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://kortni.ca/categories/kid-me-dear-diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dear First Diary</title>
+      <link>https://kortni.ca/blog/dear-first-diary/</link>
+      <pubDate>Fri, 25 Dec 1992 21:49:20 +0200</pubDate>
+      
+      <guid>https://kortni.ca/blog/dear-first-diary/</guid>
+      <description>Dear Diary,
+Today is the day that I first got you!</description>
+    </item>
+    
+  </channel>
+</rss>

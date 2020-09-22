@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids on kortni.ca</title>
+    <link>https://kortni.ca/tags/kids/</link>
+    <description>Recent content in Kids on kortni.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kortni.ca/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Staying Home for School</title>
+      <link>https://kortni.ca/blog/staying-home-for-school/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kortni.ca/blog/staying-home-for-school/</guid>
+      <description>Back to school this month looks a lot different for us.
+We&amp;rsquo;re staying home for grade 3 and 5 and doing distanced learning through SIDES. I took some courses through SIDES when I was in high school and really enjoye it. I&amp;rsquo;m guessing my sons won&amp;rsquo;t have to paper snail mail their math work into their teachers for grading and wait weeks, instead of seconds, for the results of their tests.</description>
+    </item>
+    
+  </channel>
+</rss>
